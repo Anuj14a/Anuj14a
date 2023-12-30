@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Anuj14a
+- 👋 Hi, I’m Anuj Rana
 - 👀 I’m interested in full stack web development and android development
 - 🌱 I’m currently learning full stack web development using HTML, CSS and java script
 - 💞️ I’m looking to collaborate on 
